@@ -22,55 +22,89 @@
         <div class="block-1" style="">
           <div class="block-2" style="">
             <div class="block-3" style="">
-              <div class="block-4" style="">
-                <div class="block-5" style="">
-	                <h2>Vigsel</h2> 
-                </div>
-                <p>Vigseln äger rum i Munsö kyrka kl 14.30. <br>
-                Barn är välkomna i kyrkan men där efter vill vi fira med våra vuxna gäster. <br><br>
-                Till kyrkan tar man sig <br>
-                1: egen maskin <br>
-                2: buss nr.. från bromma,<br>
-                3: taxi/uber (karta och adress: Slutvägen 3, 178 91 Munsö). <br><br>
-                Vigseln pågår i ungefär en timme och därefter kommer gästerna att transporteras till landstället på ön malmhuvud där festen fortsätter!</p>
-              </div>
-              
+              <h2>Vigsel</h2> 
+              <p>Vigseln äger rum i Munsö kyrka kl 14.30. <br>
+              Barn är välkomna i kyrkan men där efter vill vi fira med våra vuxna gäster. <br><br>
+              Till kyrkan tar man sig <br>
+              1: egen maskin <br>
+              2: buss nr.. från bromma,<br>
+              3: taxi/uber (karta och adress: Slutvägen 3, 178 91 Munsö). <br><br>
+              Vigseln pågår i ungefär en timme och därefter kommer gästerna att transporteras till landstället på ön malmhuvud där festen fortsätter!</p>
+            </div>  
           </div>
           <div class="block-6" style="">
-            <div class="image-container image-2" style="">
+            <div class="image-container image-2" style=""></div>
+          </div>
+        </div>
+
+
+
+    <div class="row-wrapper">
+      <div class="row-spacer">
+        <div class="row-box">
+          <div class="image-container image-1"></div>
+        </div>
+        <div class="row-box2">
+          <div style="row-box-text">
+            <h1>Klädsel</h1>
+            <p>Du kan bära kostym eller en sommarfin blåsa, ha skor som du gillar men som samtidigt är funktionella. Vi kommer att tillbringa kvällen utomhus så medtag ett varmare plagg. </p>
           </div>
         </div>
       </div>
     </div>
 
+    <div class="block-1" style="">
+      <div class="block-2" style="">
+        <div class="block-3" style="">
+          <h2>Mat</h2> 
+          <p>Vi bjuder på tilltugg och cava vid ankomst på malmhuvud, därefter en sommarbuffé, bröllopstårta och öppen bar. Meddela oss om allergier vi behöver ta hänsyn till på XXX@XXX</p>
+        </div>  
+      </div>
+      <div class="block-6" style="">
+        <div class="image-container image-2" style=""></div>
+      </div>
+    </div>
 
-
-
-
-
-
-        <!-- <v-card color="primary">
-          <v-card-text class="px-0">
-            
-        
-            <h2>Vigsel</h2> 
-            <p>Vigseln äger rum i Munsö kyrka kl 14.30. Barn är välkomna i kyrkan men där efter vill vi fira med våra vuxna gäster. Till kyrkan tar man sig 1: egen maskin 2: buss nr.. från bromma, 3: taxi/uber (karta och adress: Slutvägen 3, 178 91 Munsö). Vigseln pågår i ungefär en timme och därefter kommer gästerna att transporteras till landstället på ön malmhuvud där festen fortsätter!</p>
-      
-            <h2>Klädsel</h2>
-            <p>Du kan bära kostym eller en sommarfin blåsa, ha skor som du gillar men som samtidigt är funktionella. Vi kommer att tillbringa kvällen utomhus så medtag ett varmare plagg. </p>
-      
-            <h2>Mat</h2>
-            <p>Vi bjuder på tilltugg och cava vid ankomst på malmhuvud, därefter en sommarbuffé, bröllopstårta och öppen bar. Meddela oss om allergier vi behöver ta hänsyn till på XXX@XXX</p>
-      
-            <h2>Hemgång</h2>
+    <div class="row-wrapper">
+      <div class="row-spacer">
+        <div class="row-box">
+          <div class="image-container image-1"></div>
+        </div>
+        <div class="row-box2">
+          <div style="row-box-text">
+            <h1>Hemgång</h1>
             <p>Det kommer finnas två tidpunkter då du kan transporteras från ön varav den sista tiden också inkluderar en busstransport till Bromma och sedan Järfälla. Dessa tidpunkter är 23.00 och 02.00.</p>
-      
-            <h2>Presenter</h2>
-            <p>Er närvaro är allt vi önskar! Vill ni dock uppmärksamma vår dag ytterligare önskar vi oss ett bidrag till smekmånaden alternativt till välgörande ändamål: Till: XXX OSA senast 3/5.</p>
+          </div>
+        </div>
+      </div>
+    </div>
 
-            <h2>Toastmasters</h2>
-          </v-card-text>
-        </v-card> -->
+    <div class="block-1" style="">
+      <div class="block-2" style="">
+        <div class="block-3" style="">
+          <h2>Presenter</h2> 
+          <p>Er närvaro är allt vi önskar! Vill ni dock uppmärksamma vår dag ytterligare önskar vi oss ett bidrag till smekmånaden alternativt till välgörande ändamål: Till: XXX OSA senast 3/5.</p>
+        </div>  
+      </div>
+      <div class="block-6" style="">
+        <div class="image-container image-2" style=""></div>
+      </div>
+    </div>
+
+    <div class="row-wrapper">
+      <div class="row-spacer">
+        <div class="row-box">
+          <div class="image-container image-1"></div>
+        </div>
+        <div class="row-box2">
+          <div style="row-box-text">
+            <h1>Toastmasters</h1>
+            <p>Har du övriga frågor eller funderingar är du välkommen att kontakta våra toastmasters..</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
       </v-flex>
         
 
@@ -200,6 +234,12 @@ h1{
 }
 h2{
   font-size: 42px;
+  margin-bottom: 5%; 
+  float: none; 
+  display: inline-block;  
+  padding: 0em; 
+  line-height: 100%; 
+  min-height: 32px;
 }
 .date{
   font-size: 32px;
@@ -230,31 +270,15 @@ h2{
   display:inline-block;
   width:54%;
   padding:1em;
-  padding-top:10%;
+  padding-top:15%;
   padding-left:10%;
   padding-right:10%;
-  padding-bottom:10%;
-  background-color:rgb(50, 56, 99);
+  padding-bottom:15%;
+  background-color:#754d34;
   margin-top:0px;
   margin-left:-4%;
   margin-right:0px;
-  margin-bottom:0px
-}
-.block-4{
-  padding:1em;
-  width:100%;
-  padding-top:0em;
-  padding-left:0em;
-  padding-right:0em;
-  padding-bottom:0em
-}
-.block-5{
-  margin-bottom: 5%; 
-  float: none; 
-  display: inline-block;  
-  padding: 0em; 
-  line-height: 100%; 
-  min-height: 32px;
+  margin-bottom:0px;
 }
 .block-6{
   float:left;
