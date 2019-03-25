@@ -7,7 +7,8 @@
 <style>
 html {
   font-family: 'PT Sans', sans-serif, "Helvetica Neue";
-  font-size: 16px;
+  font-size: 18px;
+  line-height:2;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;

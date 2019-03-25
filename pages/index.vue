@@ -6,7 +6,7 @@
 
         <div class="row-wrapper">
           <div class="row-spacer">
-            <div class="row-box">
+            <div class="row-box m-10">
               <div class="image-container image-1"></div>
             </div>
             <div class="row-box2">
@@ -21,7 +21,7 @@
 
         <div class="block-1" style="">
           <div class="block-2" style="">
-            <div class="block-3" style="">
+            <div class="block-3 padd-8" style="">
               <h2>Vigsel</h2> 
               <p>Vigseln äger rum i Munsö kyrka kl 14.30. <br>
               Barn är välkomna i kyrkan men där efter vill vi fira med våra vuxna gäster. <br><br>
@@ -41,8 +41,8 @@
 
     <div class="row-wrapper">
       <div class="row-spacer">
-        <div class="row-box">
-          <div class="image-container image-1"></div>
+        <div class="row-box m-4">
+          <div class="image-container image-3"></div>
         </div>
         <div class="row-box2">
           <div style="row-box-text">
@@ -60,15 +60,15 @@
           <p>Vi bjuder på tilltugg och cava vid ankomst på malmhuvud, därefter en sommarbuffé, bröllopstårta och öppen bar. Meddela oss om allergier vi behöver ta hänsyn till på XXX@XXX</p>
         </div>  
       </div>
-      <div class="block-6" style="">
-        <div class="image-container image-2" style=""></div>
+      <div class="block-6 m-4" style="">
+        <div class="image-container image-4 cirkle" style=""></div>
       </div>
     </div>
 
     <div class="row-wrapper">
       <div class="row-spacer">
-        <div class="row-box">
-          <div class="image-container image-1"></div>
+        <div class="row-box m-4">
+          <div class="image-container image-5"></div>
         </div>
         <div class="row-box2">
           <div style="row-box-text">
@@ -87,14 +87,14 @@
         </div>  
       </div>
       <div class="block-6" style="">
-        <div class="image-container image-2" style=""></div>
+        <div class="image-container image-6 cirkle" style=""></div>
       </div>
     </div>
 
     <div class="row-wrapper">
       <div class="row-spacer">
-        <div class="row-box">
-          <div class="image-container image-1"></div>
+        <div class="row-box m-3">
+          <div class="image-container image-7"></div>
         </div>
         <div class="row-box2">
           <div style="row-box-text">
@@ -149,7 +149,7 @@ export default {
   margin-top:0%;
   margin-bottom:0em;
   text-align:center;
-  color:#17140f;
+  color: #dfdfdf;
   max-width:1200px;
   display:inline-block
 }
@@ -167,7 +167,6 @@ export default {
   padding-left:0%;
   padding-right:0%;
   padding-bottom:0%;
-  background-color:rgb(50, 56, 99);
   margin-top:16%;
   margin-left:-4%;
   margin-right:0%;
@@ -188,7 +187,8 @@ export default {
   padding-left:6%;
   padding-right:6%;
   padding-bottom:12%;
-  background-color:#754d34;
+  /* background-color:#754d34; */
+  background-image:url('/bg-pattern-dark.jpg');
   margin-top:0px;
   margin-left:0%;
   margin-right:-4%;
@@ -206,12 +206,36 @@ export default {
 }
 .image-1{
   padding-bottom:70%;
-  background-image:url('/patrik-johanna-water.jpg')
+  background-image:url('/patrik-johanna.jpg')
+  /* background-image:url('/patrik-johanna-water.jpg') */
 }
 .image-2{
   padding-bottom:100%;
   background-image:url('/kyrka.jpg')
 }
+
+
+.image-3{
+  padding-bottom:80%;
+  background-image:url('/kladsel.jpg')
+}
+.image-4{
+  padding-bottom:100%;
+  background-image:url('/mat.jpg')
+}
+.image-5{
+  padding-bottom:100%;
+  background-image:url('/hemgang.jpg')
+}
+.image-6{
+  padding-bottom:100%;
+  background-image:url('/gifts.jpg')
+}
+.image-7{
+  padding-bottom:70%;
+  background-image:url('/toast.jpg')
+}
+
 .row-box-text{
   margin-bottom:5%;
   float:none;
@@ -262,7 +286,7 @@ h2{
 .block-2{
   padding-top:5%;
   padding-right:0em;
-  padding-bottom:5%;
+  padding-bottom:0%;
   padding-left:0em
 }
 .block-3{
@@ -274,7 +298,8 @@ h2{
   padding-left:10%;
   padding-right:10%;
   padding-bottom:15%;
-  background-color:#754d34;
+  /* background-color:#754d34; */
+  background-image:url('/bg-pattern.jpg');
   margin-top:0px;
   margin-left:-4%;
   margin-right:0px;
@@ -288,7 +313,6 @@ h2{
   padding-left:0%;
   padding-right:0%;
   padding-bottom:0%;
-  background-color:rgb(50, 56, 99);
   margin-top:6%;
   margin-left:3%;
   margin-right:-4%;
@@ -299,6 +323,23 @@ h2{
   transform:translateX(0%);
   -ms-transform:translateX(0%);
   -webkit-transform:translateX(0%)
+}
+
+.cirkle{
+  border-radius:100% !important;
+}
+.m-4{
+  margin-top:4%;
+}
+.m-10{
+  margin-top:10%;
+}
+.m-3{
+  margin-top:3%;
+}
+.padd-8{
+  padding-top:8%;
+  padding-bottom:8%;
 }
 </style>
 
