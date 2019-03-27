@@ -5,6 +5,8 @@
 </template>
 
 <style>
+
+
 html {
   font-family: 'PT Sans', sans-serif, "Helvetica Neue";
   font-size: 18px;
@@ -27,6 +29,14 @@ body{
 *, *:before, *:after {
   box-sizing: border-box;
   margin: 0;
+}
+
+@media only screen and (min-width: 768px) {
+
+  html {
+    line-height:1.5;
+  }
+
 }
 
 </style>

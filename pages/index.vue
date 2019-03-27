@@ -130,7 +130,18 @@ export default {
 
 <style>
 
- @import url('https://fonts.googleapis.com/css?family=Kaushan+Script|PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|PT+Sans');
+
+.container,
+.row-wrapper,
+.row-box,
+.row-box2,
+.block-1,
+.block-3,
+.block-6
+{
+  width:100%;
+}
 
 .container {
   min-height: 100vh;
@@ -162,7 +173,6 @@ export default {
 .row-box{
   float:right;
   display:inline-block;
-  width:54%;
   padding-top:0%;
   padding-left:0%;
   padding-right:0%;
@@ -181,7 +191,6 @@ export default {
 .row-box2{
   float:left;
   display:inline-block;
-  width:54%;
   padding:1em;
   padding-top:12%;
   padding-left:6%;
@@ -213,8 +222,6 @@ export default {
   padding-bottom:100%;
   background-image:url('/kyrka.jpg')
 }
-
-
 .image-3{
   padding-bottom:80%;
   background-image:url('/kladsel.jpg')
@@ -254,10 +261,10 @@ h1,h2,h3,.date{
   font-family: 'Kaushan Script', cursive;
 }
 h1{
-  font-size: 52px;
+  font-size: 40px;
 }
 h2{
-  font-size: 42px;
+  font-size: 38px;
   margin-bottom: 5%; 
   float: none; 
   display: inline-block;  
@@ -271,7 +278,6 @@ h2{
 
 .block-1{
   float:none;
-  width:100%;
   padding:1em;
   padding-top:0%;
   padding-left:0px;
@@ -292,7 +298,6 @@ h2{
 .block-3{
   float:right;
   display:inline-block;
-  width:54%;
   padding:1em;
   padding-top:15%;
   padding-left:10%;
@@ -308,14 +313,10 @@ h2{
 .block-6{
   float:left;
   display:inline-block;
-  width:50%;
   padding-top:0%;
   padding-left:0%;
   padding-right:0%;
   padding-bottom:0%;
-  margin-top:6%;
-  margin-left:3%;
-  margin-right:-4%;
   margin-bottom:0px;
   -webkit-transform:translateX(0%);
   -moz-transform:translateX(0%);
@@ -325,12 +326,6 @@ h2{
   -webkit-transform:translateX(0%)
 }
 
-.cirkle{
-  border-radius:100% !important;
-}
-.m-4{
-  margin-top:4%;
-}
 .m-10{
   margin-top:10%;
 }
@@ -340,6 +335,191 @@ h2{
 .padd-8{
   padding-top:8%;
   padding-bottom:8%;
+}
+
+
+
+
+@media only screen and (min-width: 768px) {
+
+  .container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .row-wrapper{
+    float:none;
+    width:100%;
+    padding-top:0%;
+    padding-left:0px;
+    padding-right:0px;
+    padding-bottom:0%;
+    margin-top:0%;
+    margin-bottom:0em;
+    text-align:center;
+    color: #dfdfdf;
+    max-width:1200px;
+    display:inline-block
+  }
+  .row-spacer{
+    padding-top:5%;
+    padding-right:0em;
+    padding-bottom:5%;
+    padding-left:0em
+  }
+  .row-box{
+    float:right;
+    display:inline-block;
+    width:54%;
+    padding-top:0%;
+    padding-left:0%;
+    padding-right:0%;
+    padding-bottom:0%;
+    margin-top:16%;
+    margin-left:-4%;
+    margin-right:0%;
+    margin-bottom:0px;
+    -webkit-transform:translateX(0%);
+    -moz-transform:translateX(0%);
+    -ms-transform:translateX(0%);
+    transform:translateX(0%);
+    -ms-transform:translateX(0%);
+    -webkit-transform:translateX(0%)
+  }
+  .row-box2{
+    float:left;
+    display:inline-block;
+    width:54%;
+    padding:1em;
+    padding-top:12%;
+    padding-left:6%;
+    padding-right:6%;
+    padding-bottom:12%;
+    /* background-color:#754d34; */
+    background-image:url('/bg-pattern-dark.jpg');
+    margin-top:0px;
+    margin-left:0%;
+    margin-right:-4%;
+    margin-bottom:0px;
+    position: relative;
+  }
+  .image-container{
+    padding-top:0em;
+    padding-left:0em;
+    padding-right:0em;
+    background-size:cover;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-attachment:0em;
+  }
+  .row-box-text{
+    margin-bottom:5%;
+    float:none;
+    display:inline-block;  
+    padding-top:0em;
+    padding-right:0em;
+    padding-bottom:0em;
+    padding-left:0em;
+    line-height:100%;
+    text-transform:uppercase;
+    letter-spacing:10px;
+    text-align:left
+  }
+
+  h1,h2,h3,.date{
+    font-family: 'Kaushan Script', cursive;
+  }
+  h1{
+    font-size: 52px;
+  }
+  h2{
+    font-size: 42px;
+    margin-bottom: 5%; 
+    float: none; 
+    display: inline-block;  
+    padding: 0em; 
+    line-height: 100%; 
+    min-height: 32px;
+  }
+  .date{
+    font-size: 32px;
+  }
+
+  .block-1{
+    float:none;
+    width:100%;
+    padding:1em;
+    padding-top:0%;
+    padding-left:0px;
+    padding-right:0px;
+    padding-bottom:0%;
+    margin-top:0%;
+    margin-bottom:0em;
+    text-align:center;
+    color:#ffffff;
+    display:inline-block
+  }
+  .block-2{
+    padding-top:5%;
+    padding-right:0em;
+    padding-bottom:0%;
+    padding-left:0em
+  }
+  .block-3{
+    float:right;
+    display:inline-block;
+    width:54%;
+    padding:1em;
+    padding-top:15%;
+    padding-left:10%;
+    padding-right:10%;
+    padding-bottom:15%;
+    /* background-color:#754d34; */
+    background-image:url('/bg-pattern.jpg');
+    margin-top:0px;
+    margin-left:-4%;
+    margin-right:0px;
+    margin-bottom:0px;
+  }
+  .block-6{
+    float:left;
+    display:inline-block;
+    width:50%;
+    padding-top:0%;
+    padding-left:0%;
+    padding-right:0%;
+    padding-bottom:0%;
+    margin-top:6%;
+    margin-left:3%;
+    margin-right:-4%;
+    margin-bottom:0px;
+    -webkit-transform:translateX(0%);
+    -moz-transform:translateX(0%);
+    -ms-transform:translateX(0%);
+    transform:translateX(0%);
+    -ms-transform:translateX(0%);
+    -webkit-transform:translateX(0%)
+  }
+
+  .cirkle{
+    border-radius:100% !important;
+  }
+  .m-4{
+    margin-top:4%;
+  }
+  .m-10{
+    margin-top:10%;
+  }
+  .m-3{
+    margin-top:3%;
+  }
+  .padd-8{
+    padding-top:8%;
+    padding-bottom:8%;
+  }
+
 }
 </style>
 
