@@ -13,6 +13,8 @@
               <div style="row-box-text">
                 <h1>Johanna och Patrik</h1>
                 <span class="date">2019-08-03</span>
+                <br><br>
+                <p>OSA ditt deltagande till <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a> <strong>senast 3/5</strong>.</p>
               </div>
             </div>
           </div>
@@ -57,7 +59,7 @@
       <div class="block-2" style="">
         <div class="block-3" style="">
           <h2>Mat</h2> 
-          <p>Vi bjuder på tilltugg och cava vid ankomst på malmhuvud, därefter en sommarbuffé, bröllopstårta och öppen bar. Meddela oss om allergier vi behöver ta hänsyn till på XXX@XXX</p>
+          <p>Vi bjuder på tilltugg och cava vid ankomst på malmhuvud, därefter en sommarbuffé, bröllopstårta och öppen bar. Meddela oss om allergier vi behöver ta hänsyn till på <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a></p>
         </div>  
       </div>
       <div class="block-6 m-4" style="">
@@ -83,7 +85,8 @@
       <div class="block-2" style="">
         <div class="block-3" style="">
           <h2>Presenter</h2> 
-          <p>Er närvaro är allt vi önskar! Vill ni dock uppmärksamma vår dag ytterligare önskar vi oss ett bidrag till smekmånaden alternativt till välgörande ändamål: Till: XXX OSA senast 3/5.</p>
+          <p>Er närvaro är allt vi önskar! Vill ni dock uppmärksamma vår dag ytterligare önskar vi oss ett bidrag till smekmånaden alternativt till välgörande ändamål (WWF): till Handelsbanken konto:  6125 355321548 <br><br>
+          OSA ditt deltagande till <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a> <strong>senast 3/5</strong>.</p>
         </div>  
       </div>
       <div class="block-6" style="">
@@ -99,7 +102,11 @@
         <div class="row-box2">
           <div style="row-box-text">
             <h1>Toastmasters</h1>
-            <p>Har du övriga frågor eller funderingar är du välkommen att kontakta våra toastmasters..</p>
+            <p>Har du övriga frågor eller funderingar eller vill hålla tal är du välkommen att kontakta:<br><br>
+            Toastmadame<br>
+            Anna Riddez <a href="mailto:anna.riddez@magelungen.com">anna.riddez@magelungen.com</a> 073-3669265<br><br>
+            Toastmaster<br>
+            Johan Hultborg 0725259470</p>
           </div>
         </div>
       </div>
@@ -141,6 +148,11 @@ export default {
 .block-6
 {
   width:100%;
+}
+
+a{
+  color:#fff;
+  font-weight:700; 
 }
 
 .container {
