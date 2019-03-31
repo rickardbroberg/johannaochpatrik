@@ -17,6 +17,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  min-height: 100%;
 }
 
 body{
@@ -24,6 +25,8 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
+  background-size:cover;
+  min-height: 100%;
 }
 
 *, *:before, *:after {
