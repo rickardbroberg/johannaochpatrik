@@ -24,14 +24,15 @@
         <div class="block-1" style="">
           <div class="block-2" style="">
             <div class="block-3 padd-8" style="">
-              <h2>Vigsel</h2> 
-              <p>Vigseln äger rum i Munsö kyrka kl 14.30. <br>
-              Barn är välkomna i kyrkan men där efter vill vi fira med våra vuxna gäster. <br><br>
-              Till kyrkan tar man sig <br>
-              1: egen maskin <br>
-              2: buss nr.. från bromma,<br>
-              3: taxi/uber (karta och adress: Slutvägen 3, 178 91 Munsö). <br><br>
-              Vigseln pågår i ungefär en timme och därefter kommer gästerna att transporteras till landstället på ön malmhuvud där festen fortsätter!</p>
+              <h2>Vigseln</h2> 
+              <p>Vigseln äger rum i Munsö kyrka den 3:e Augusti kl. 14.30.  <br>
+              Adress: Slutvägen 3, 178 91 Munsö<br>
+              Det tar en stund att ta sig till Munsö kyrka. Det kan också vara broöppning på Nockebybron och vid Tappströmsbron strax innan Ekerö centrum. Det är därför viktigt att vara ute i god tid innan vigseln.
+<br><br>
+Vigseln pågår i ungefär en timme och därefter kommer gästerna att transporteras till landstället på ön Malmhuvud där festen fortsätter!
+Vi har anlitat en professionell bröllopsfotograf som kommer ta bilder under vigseln, för att garantera bra bilder utan hinder så undanbedes egen fotografering under vigseln.
+Barn är välkomna i kyrkan men där efter vill vi fira med våra vuxna gäster!
+              </p>
             </div>  
           </div>
           <div class="block-6" style="">
@@ -39,7 +40,20 @@
           </div>
         </div>
 
-
+    <div class="block-1" style="">
+      <div class="block-2" style="">
+        <div class="block-3" style="">
+          <h2>Transport</h2> 
+          <p>Till Munsö kyrka kan man ta sig med kommunala medel hela vägen.
+Det kommer att finnas möjlighet att åka förhyrd buss från Brommaplan till vigseln. Bussen kommer avgå från Brommaplan ca kl. 13.00 och det är viktigt att meddela brudparet om man önskar transporten på <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a>.
+Samma buss kommer att transportera bröllopsgästerna till bryggan efter vigseln. Där efter slussas bröllopsgästerna över till ön Malmhuvud i båtar.
+</p>
+        </div>  
+      </div>
+      <div class="block-6 m-4" style="">
+        <div class="image-container image-2-1 cirkle" style=""></div>
+      </div>
+    </div>
 
     <div class="row-wrapper">
       <div class="row-spacer">
@@ -59,7 +73,7 @@
       <div class="block-2" style="">
         <div class="block-3" style="">
           <h2>Mat</h2> 
-          <p>Vi bjuder på tilltugg och cava vid ankomst på malmhuvud, därefter en sommarbuffé, bröllopstårta och öppen bar. Meddela oss om allergier vi behöver ta hänsyn till på <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a></p>
+          <p>Vi bjuder på tilltugg och dryck vid ankomst på Malmhuvud, därefter en sommarbuffé, bröllopstårta och öppen bar. Meddela oss om allergier vi behöver ta hänsyn till på <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a></p>
         </div>  
       </div>
       <div class="block-6 m-4" style="">
@@ -75,7 +89,7 @@
         <div class="row-box2">
           <div style="row-box-text">
             <h1>Hemgång</h1>
-            <p>Det kommer finnas två tidpunkter då du kan transporteras från ön varav den sista tiden också inkluderar en busstransport till Bromma och sedan Järfälla. Dessa tidpunkter är 23.00 och 02.00.</p>
+            <p>När kvällen börjar lida mot sitt slut finns det två avgångar från Malmhuvud; kl. 23.00 och kl. 02.00. Den senare avgångstiden inkluderar busstransport till Brommaplan. </p>
           </div>
         </div>
       </div>
@@ -85,8 +99,10 @@
       <div class="block-2" style="">
         <div class="block-3" style="">
           <h2>Presenter</h2> 
-          <p>Er närvaro är allt vi önskar! Vill ni dock uppmärksamma vår dag ytterligare önskar vi oss ett bidrag till smekmånaden alternativt till välgörande ändamål (WWF): till Handelsbanken konto:  6125 355321548 <br><br>
-          OSA ditt deltagande till <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a> <strong>senast 3/5</strong>.</p>
+          <p>Er närvaro är allt vi önskar!<br>
+Vill ni dock uppmärksamma vår dag ytterligare önskar vi oss ett bidrag till smekmånaden alternativt till ett välgörande ändamål som världsnaturfonden (WWF) eller UNHCR.<br>
+Kontonummer: Handelsbanken konto: 6125 355321548 <br><br>
+OSA ditt deltagande till <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a> <strong>3/6</strong>.</p>
         </div>  
       </div>
       <div class="block-6" style="">
@@ -101,8 +117,8 @@
         </div>
         <div class="row-box2">
           <div style="row-box-text">
-            <h1>Toastmasters</h1>
-            <p>Har du övriga frågor eller funderingar eller vill hålla tal är du välkommen att kontakta:<br><br>
+            <h1>Toasts</h1>
+            <p>Har du frågor om festen eller har du en önskan om att hålla tal? Då är du välkommen att kontakta:<br><br>
             Toastmadame<br>
             Anna Riddez <a href="mailto:anna.riddez@magelungen.com">anna.riddez@magelungen.com</a> 073-3669265<br><br>
             Toastmaster<br>
@@ -233,6 +249,10 @@ a{
 .image-2{
   padding-bottom:100%;
   background-image:url('/kyrka.jpg')
+}
+.image-2-1{
+  padding-bottom:100%;
+  background-image:url('/transport.jpg')
 }
 .image-3{
   padding-bottom:80%;
