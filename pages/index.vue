@@ -14,7 +14,7 @@
                 <h1>Johanna och Patrik</h1>
                 <span class="date">2019-08-03</span>
                 <br><br>
-                <p>OSA ditt deltagande till <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a> <strong>senast 3/5</strong>.</p>
+                <p>OSA ditt deltagande till <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a> <strong>senast 3/6</strong>.</p>
               </div>
             </div>
           </div>
