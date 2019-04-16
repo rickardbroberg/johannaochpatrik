@@ -290,7 +290,8 @@ a{
 }
 
 h1,h2,h3,.date{
-  font-family: 'Kaushan Script', cursive;
+  font-family: 'bradley-hand';
+  /* font-family: 'Kaushan Script', cursive; */
 }
 h1{
   font-size: 40px;
@@ -461,7 +462,8 @@ h2{
   }
 
   h1,h2,h3,.date{
-    font-family: 'Kaushan Script', cursive;
+    font-family: 'bradley-hand';
+    /* font-family: 'Kaushan Script', cursive; */
   }
   h1{
     font-size: 52px;

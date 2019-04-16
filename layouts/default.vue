@@ -6,10 +6,16 @@
 
 <style>
 
+@font-face {
+  font-family: 'bradley-hand';
+  src: URL('/BRADHI.ttf') format('truetype');
+}
 
 html {
-  font-family: 'PT Sans', sans-serif, "Helvetica Neue";
-  font-size: 18px;
+  /* font-family: 'PT Sans', sans-serif, "Helvetica Neue"; */
+  font-family: 'bradley-hand';
+  font-weight: 700;
+  font-size: 19px;
   line-height:2;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
@@ -18,6 +24,10 @@ html {
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
   min-height: 100%;
+}
+
+p{
+  font-size: 19px;
 }
 
 body{
