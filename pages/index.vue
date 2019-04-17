@@ -48,6 +48,7 @@ Barn är välkomna i kyrkan men där efter vill vi fira med våra vuxna gäster!
 Det kommer att finnas möjlighet att åka förhyrd buss från Brommaplan till vigseln. Bussen kommer avgå från Brommaplan ca kl. 13.00 och det är viktigt att meddela brudparet om man önskar transporten på <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a>.
 Samma buss kommer att transportera bröllopsgästerna till bryggan efter vigseln. Där efter slussas bröllopsgästerna över till ön Malmhuvud i båtar.
 </p>
+<p>Exakta tider för transport kommer att uppdateras när vi närmar oss bröllopet.</p>
         </div>  
       </div>
       <div class="block-6 m-4" style="">
@@ -256,7 +257,7 @@ a{
 }
 .image-3{
   padding-bottom:80%;
-  background-image:url('/kladsel.jpg')
+  background-image:url('/kladsel_1.jpg')
 }
 .image-4{
   padding-bottom:100%;
