@@ -227,6 +227,7 @@ a{
   padding-bottom:12%;
   /* background-color:#754d34; */
   background-image:url('/bg-pattern-dark.jpg');
+  background-color:#786e69;
   margin-top:0px;
   margin-left:0%;
   margin-right:-4%;
@@ -339,6 +340,7 @@ h2{
   padding-bottom:15%;
   /* background-color:#754d34; */
   background-image:url('/bg-pattern.jpg');
+  background-color:#786e69;
   margin-top:0px;
   margin-left:-4%;
   margin-right:0px;
@@ -433,6 +435,7 @@ h2{
     padding-bottom:12%;
     /* background-color:#754d34; */
     background-image:url('/bg-pattern-dark.jpg');
+    background-color:#786e69;
     margin-top:0px;
     margin-left:0%;
     margin-right:-4%;
@@ -513,6 +516,7 @@ h2{
     padding-bottom:15%;
     /* background-color:#754d34; */
     background-image:url('/bg-pattern.jpg');
+    background-color:#786e69;
     margin-top:0px;
     margin-left:-4%;
     margin-right:0px;
