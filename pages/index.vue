@@ -121,9 +121,9 @@ OSA ditt deltagande till <a href="mailto:johannaochpatrik@outlook.com">johannao
             <h1>Toasts</h1>
             <p>Har du frågor om festen eller har du en önskan om att hålla tal? Då är du välkommen att kontakta:<br><br>
             Toastmadame<br>
-            Anna Riddez <a href="mailto:anna.riddez@magelungen.com">anna.riddez@magelungen.com</a> 073-3669265<br><br>
+            Anna <a href="mailto:anna.riddez@magelungen.com">anna.riddez@magelungen.com</a> 073-3669265<br><br>
             Toastmaster<br>
-            Johan Hultborg 0725259470</p>
+            Johan 0725259470</p>
           </div>
         </div>
       </div>
