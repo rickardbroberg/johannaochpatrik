@@ -14,7 +14,7 @@
                 <h1>Johanna och Patrik</h1>
                 <span class="date">2019-08-03</span>
                 <br><br>
-                <p>OSA ditt deltagande till <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a> <strong>senast 3/6</strong>.</p>
+                <p>OSA ditt deltagande till <a target="_blank" href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a> <strong>senast 3/6</strong>.</p>
               </div>
             </div>
           </div>
@@ -45,7 +45,7 @@ Barn är välkomna i kyrkan men där efter vill vi fira med våra vuxna gäster!
         <div class="block-3" style="">
           <h2>Transport</h2> 
           <p>Till Munsö kyrka kan man ta sig med kommunala medel hela vägen.
-Det kommer att finnas möjlighet att åka förhyrd buss från Brommaplan till vigseln. Bussen kommer avgå från Brommaplan ca kl. 13.00 och det är viktigt att meddela brudparet om man önskar transporten på <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a>.
+Det kommer att finnas möjlighet att åka förhyrd buss från Brommaplan till vigseln. Bussen kommer avgå från Brommaplan ca kl. 13.00 och det är viktigt att meddela brudparet om man önskar transporten på <a target="_blank" href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a>.
 Samma buss kommer att transportera bröllopsgästerna till bryggan efter vigseln. Där efter slussas bröllopsgästerna över till ön Malmhuvud i båtar.
 </p>
 <p>Exakta tider för transport kommer att uppdateras när vi närmar oss bröllopet.</p>
@@ -74,7 +74,7 @@ Samma buss kommer att transportera bröllopsgästerna till bryggan efter vigseln
       <div class="block-2" style="">
         <div class="block-3" style="">
           <h2>Mat</h2> 
-          <p>Vi bjuder på tilltugg och dryck vid ankomst på Malmhuvud, därefter en sommarbuffé, bröllopstårta och öppen bar. Meddela oss om allergier vi behöver ta hänsyn till på <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a></p>
+          <p>Vi bjuder på tilltugg och dryck vid ankomst på Malmhuvud, därefter en sommarbuffé, bröllopstårta och öppen bar. Meddela oss om allergier vi behöver ta hänsyn till på <a target="_blank" href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a></p>
         </div>  
       </div>
       <div class="block-6 m-4" style="">
@@ -103,7 +103,7 @@ Samma buss kommer att transportera bröllopsgästerna till bryggan efter vigseln
           <p>Er närvaro är allt vi önskar!<br>
 Vill ni dock uppmärksamma vår dag ytterligare önskar vi oss ett bidrag till smekmånaden alternativt till ett välgörande ändamål som världsnaturfonden (WWF) eller UNHCR.<br>
 Kontonummer: Handelsbanken konto: 6125 355321548 <br><br>
-OSA ditt deltagande till <a href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a> <strong>3/6</strong>.</p>
+OSA ditt deltagande till <a target="_blank" href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a> <strong>3/6</strong>.</p>
         </div>  
       </div>
       <div class="block-6" style="">
@@ -121,7 +121,7 @@ OSA ditt deltagande till <a href="mailto:johannaochpatrik@outlook.com">johannao
             <h1>Toasts</h1>
             <p>Har du frågor om festen eller har du en önskan om att hålla tal? Då är du välkommen att kontakta:<br><br>
             Toastmadame<br>
-            Anna <a href="mailto:anna.riddez@magelungen.com">anna.riddez@magelungen.com</a> 073-3669265<br><br>
+            Anna <a target="_blank" href="mailto:anna.riddez@magelungen.com">anna.riddez@magelungen.com</a> 073-3669265<br><br>
             Toastmaster<br>
             Johan 0725259470</p>
           </div>
