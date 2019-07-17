@@ -44,11 +44,7 @@ Barn är välkomna i kyrkan men där efter vill vi fira med våra vuxna gäster!
       <div class="block-2" style="">
         <div class="block-3" style="">
           <h2>Transport</h2> 
-          <p>Till Munsö kyrka kan man ta sig med kommunala medel hela vägen.
-Det kommer att finnas möjlighet att åka förhyrd buss från Brommaplan till vigseln. Bussen kommer avgå från Brommaplan ca kl. 13.00 och det är viktigt att meddela brudparet om man önskar transporten på <a target="_blank" href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a>.
-Samma buss kommer att transportera bröllopsgästerna till bryggan efter vigseln. Där efter slussas bröllopsgästerna över till ön Malmhuvud i båtar.
-</p>
-<p>Exakta tider för transport kommer att uppdateras när vi närmar oss bröllopet.</p>
+          <p>Till Munsö kyrka kan man ta sig med kommunala medel hela vägen. Det kommer att finnas möjlighet att åka förhyrd buss från Brommaplan till vigseln. Bussen kommer avgå från Brommaplan kl. 13.00 och det är viktigt att meddela brudparet om man önskar transporten på <a target="_blank" href="mailto:johannaochpatrik@outlook.com">johannaochpatrik@outlook.com</a>. Samma buss kommer att transportera bröllopsgästerna till bryggan efter vigseln. Där efter slussas bröllopsgästerna över till ön Malmhuvud i båtar.</p>
         </div>  
       </div>
       <div class="block-6 m-4" style="">
@@ -90,7 +86,7 @@ Samma buss kommer att transportera bröllopsgästerna till bryggan efter vigseln
         <div class="row-box2">
           <div style="row-box-text">
             <h1>Hemgång</h1>
-            <p>När kvällen börjar lida mot sitt slut finns det två avgångar från Malmhuvud; kl. 23.00 och kl. 02.00. Den senare avgångstiden inkluderar busstransport till Brommaplan. </p>
+            <p>När kvällen börjar lida mot sitt slut kommer det finnas en båt som avgår mot Sluts brygga ca 01.30 där en buss väntar som kommer ta er till Brommaplan. Bussens avgångstid är 02.00.</p>
           </div>
         </div>
       </div>
@@ -123,7 +119,7 @@ OSA ditt deltagande till <a target="_blank" href="mailto:johannaochpatrik@outlo
             Toastmadame<br>
             Anna <a target="_blank" href="mailto:anna.riddez@magelungen.com">anna.riddez@magelungen.com</a> 073-3669265<br><br>
             Toastmaster<br>
-            Johan 0725259470</p>
+            Johan</p>
           </div>
         </div>
       </div>
